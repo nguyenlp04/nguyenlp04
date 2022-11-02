@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lê Phước Nguyên</h1>
-https://visitcount.itsvg.in/api?id=nguyenlp04&icon=2&color=1
+[![](https://visitcount.itsvg.in/api?id=nguyenlp04&icon=2&color=1)](https://visitcount.itsvg.in)
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 
