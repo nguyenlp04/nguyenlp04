@@ -64,4 +64,4 @@
 </table>
 
 # Certificates:
-<img src="[http://webcoban.vn/image/cat-2.jpg](https://thuthuatnhanh.com/wp-content/uploads/2020/09/anh-avatar-hai.jpg)">
+<center><img src="[http://webcoban.vn/image/cat-2.jpg](https://thuthuatnhanh.com/wp-content/uploads/2020/09/anh-avatar-hai.jpg)"></center>
