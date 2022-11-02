@@ -65,7 +65,7 @@
 
 # Certificates:
 <p align="center">
-  
-    <img alt="MATLAB Onramp" title="MATLAB Onramp" src="https://i.imgur.com/WZ1qpfb.png" width="300px" />
+  <a href="https://i.imgur.com/WZ1qpfb.png">
+    <img alt="Innovative Generation" title="MATLAB Onramp" src="https://i.imgur.com/WZ1qpfb.png" width="300px" />
   </a>
 </p>
