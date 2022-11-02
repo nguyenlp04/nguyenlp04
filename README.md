@@ -6,7 +6,7 @@
 
 - ✍ I'm a student of: [FPT Polytechnic Danang](https://caodang.fpt.edu.vn/) (FPOLY).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **F8.**
 
 
 ## 📫 How to reach me:
