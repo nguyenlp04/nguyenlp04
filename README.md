@@ -64,4 +64,11 @@
 </table>
 
 # Certificates:
-<center><img src="[http://webcoban.vn/image/cat-2.jpg](https://thuthuatnhanh.com/wp-content/uploads/2020/09/anh-avatar-hai.jpg)"></center>
+<p align="center">
+  <a href="https://thuthuatnhanh.com/wp-content/uploads/2020/09/anh-avatar-hai.jpg">
+    <img alt="MATLAB Onramp" title="MATLAB Onramp" src="certificates/MATLAB-Onramp-certificate.png" width="300px" />
+  </a>
+  <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1">
+    <img alt="Machine Learning Onramp" title="Machine Learning Onramp" src="certificates/Machine-Learning-Onramp-certificate.png" width="300px" />
+  </a>
+</p>
