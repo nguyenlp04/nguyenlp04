@@ -48,7 +48,7 @@
   
 <a href="https://i.imgur.com/TGNJQCb.png">
     <img alt="
-C++ for Beginners" title="Innovative Generation" src="https://i.imgur.com/TGNJQCb.png" width="300px" />
+C++ for Beginners" title="Innovative Generation" src="https://i.imgur.com/TGNJQCb.png" width="300px" ; height ="201,96px"/>
   </a>
   
 
