@@ -43,7 +43,7 @@
 # Certificates:
 <p align="center">
   <a href="https://i.imgur.com/WZ1qpfb.png">
-    <img alt="Innovative Generation" title="Innovative Generation" src="https://i.imgur.com/WZ1qpfb.png" width="300px" />
+    <img alt="Innovative Generation" title="Innovative Generation" src="https://i.imgur.com/WZ1qpfb.png" width="300px"; height = "201" />
   </a>
   
 <a href="https://i.imgur.com/TGNJQCb.png">
