@@ -45,10 +45,14 @@
   <a href="https://i.imgur.com/WZ1qpfb.png">
     <img alt="Innovative Generation" title="Innovative Generation" src="https://i.imgur.com/WZ1qpfb.png" width="300px" />
   </a>
+<a href="[https://i.imgur.com/WZ1qpfb.png](https://codelearn.io/certification/n2e4nzlk)">
+    <img alt="C++ for Beginners" title="Innovative Generation" src="[https://i.imgur.com/WZ1qpfb.png](https://codelearn.io/certification/n2e4nzlk)" width="300px" />
+  </a>
 </p>
 
 
 
 [![](https://visitcount.itsvg.in/api?id=nguyenlp04&icon=2&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
