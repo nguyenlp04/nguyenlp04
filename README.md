@@ -45,6 +45,8 @@
   <a href="https://i.imgur.com/WZ1qpfb.png">
     <img alt="Innovative Generation" title="Innovative Generation" src="https://i.imgur.com/WZ1qpfb.png" width="300px" />
   </a>
+  </p>
+  <p align="center">
 <a href="[https://i.imgur.com/WZ1qpfb.png](https://codelearn.io/certification/n2e4nzlk)">
     <img alt="C++ for Beginners" title="Innovative Generation" src="[https://i.imgur.com/WZ1qpfb.png](https://codelearn.io/certification/n2e4nzlk)" width="300px" />
   </a>
