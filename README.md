@@ -46,9 +46,9 @@
     <img alt="Innovative Generation" title="Innovative Generation" src="https://i.imgur.com/WZ1qpfb.png" width="300px"; height = "201" />
   </a>
   
-<a href="https://i.imgur.com/TGNJQCb.png">
+<a href="https://i.imgur.com/Saq2cEY.png">
     <img alt="
-C++ for Beginners" title="Innovative Generation" src="https://i.imgur.com/TGNJQCb.png" width="300px" ; height ="201px"/>
+C++ for Beginners" title="Innovative Generation" src="https://i.imgur.com/Saq2cEY.png" width="300px" ; height ="201px"/>
   </a>
   
 
