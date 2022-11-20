@@ -55,7 +55,7 @@ C++ for Beginners" title="C++ for Beginners" src="https://i.imgur.com/Saq2cEY.pn
 
 
 <p align="center">
-  <a href="https://i.imgur.com/qYyFPqt.png">
+  <a href="C for Beginners">
     <img alt="C for Beginners" title="Innovative Generation" src="https://i.imgur.com/qYyFPqt.png" width="300px"; height = "201" />
   </a>
   
