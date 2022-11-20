@@ -47,16 +47,15 @@
   </a>
   
 <a href="https://i.imgur.com/Saq2cEY.png">
-    <img alt="
-C++ for Beginners" title="C++ for Beginners" src="https://i.imgur.com/Saq2cEY.png" width="300px" ; height ="201px"/>
+    <img alt="C++ for Beginners" title="C++ for Beginners" src="https://i.imgur.com/Saq2cEY.png" width="300px" ; height ="201px"/>
   </a>
 </p>
 
 
 
 <p align="center">
-  <a href="C for Beginners">
-    <img alt="C for Beginners" title="Innovative Generation" src="https://i.imgur.com/qYyFPqt.png" width="300px"; height = "201" />
+  <a href="https://i.imgur.com/qYyFPqt.png">
+    <img alt="C for Beginners" title="C for Beginners" src="https://i.imgur.com/qYyFPqt.png" width="300px"; height = "201" />
   </a>
   
 <!-- <a href="  ">
