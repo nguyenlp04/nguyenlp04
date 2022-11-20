@@ -48,12 +48,22 @@
   
 <a href="https://i.imgur.com/Saq2cEY.png">
     <img alt="
-C++ for Beginners" title="Innovative Generation" src="https://i.imgur.com/Saq2cEY.png" width="300px" ; height ="201px"/>
+C++ for Beginners" title="C++ for Beginners" src="https://i.imgur.com/Saq2cEY.png" width="300px" ; height ="201px"/>
   </a>
-  
-
 </p>
 
+
+
+<p align="center">
+  <a href="https://i.imgur.com/qYyFPqt.png">
+    <img alt="C for Beginners" title="Innovative Generation" src="https://i.imgur.com/qYyFPqt.png" width="300px"; height = "201" />
+  </a>
+  
+<a href="  ">
+    <img alt="
+C++ for Beginners" title=" " src=" " ; height ="201px"/>
+  </a>
+</p>
 
 
 [![](https://visitcount.itsvg.in/api?id=nguyenlp04&icon=2&color=1)](https://visitcount.itsvg.in)
